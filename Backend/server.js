@@ -5,5 +5,5 @@ app.get("/",(req, res)=>{
     res.send("Welcome to hosel and fee managment")
 })
 app.listen(port,()=>{
-    console.log("server started")
+    console.log("server started on port 5000")
 })
