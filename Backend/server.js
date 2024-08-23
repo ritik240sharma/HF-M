@@ -5,5 +5,5 @@ app.get("/",(req, res)=>{
     res.send("ritik main")
 })
 app.listen(port,()=>{
-    console.log("server started on port 5000")
+    console.log("server started on port 8000 changed asdjhsjdssjdfhasuj")
 })
