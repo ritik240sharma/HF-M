@@ -2,7 +2,7 @@
   "dependencies": {
     "cookie": "^0.6.0"
   },
-  "type":"module",
+  "type": "module",
   "name": "hfm",
   "version": "1.0.0",
   "main": "index.js",
